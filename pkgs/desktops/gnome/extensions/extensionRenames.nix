@@ -4,6 +4,9 @@
 # - Set the value to `null` for filtering (duplicate or unmaintained extensions)
 # - Sort the entries in order of appearance in the collisions.json
 {
+  "activitywatch-status@cweiske.de" = "activitywatch-status";
+  "aw-status@brayo.dev" = "aw-status";
+
   "Applications_Menu@rmy.pobox.com" = "frippery-applications-menu";
   "apps-menu@gnome-shell-extensions.gcampax.github.com" = "applications-menu";
 
@@ -12,9 +15,13 @@
 
   "system-monitor@gnome-shell-extensions.gcampax.github.com" = "system-monitor";
   "System_Monitor@bghome.gmail.com" = "system-monitor-2";
+  "system-monitor@axet.github.com" = "axets-system-monitor";
 
   "FuzzyClock@fire-man-x" = "fuzzy-clock-3";
   "FuzzyClock@johngoetz" = "fuzzy-clock";
+
+  "lockkeys@febueldo.test" = "febueldo-lock-keys";
+  "lockkeys@vaina.lt" = "lock-keys";
 
   "battery-time@eetumos.github.com" = "battery-time-3";
   "batterytime@typeof.pw" = "battery-time-2";
